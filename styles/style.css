@@ -1,0 +1,7 @@
+div{
+    background-color: tomato;
+    margin: 10;
+    border: 5px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;
+}
